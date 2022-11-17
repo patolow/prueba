@@ -25,8 +25,3 @@ Leandro
 Patricia Sol Löwenstein, 36 años, Lic. en Cs. Químicas de la UBA, trabaja en el INTI en el Departamento de Tecnologías en Nuevas Formulaciones desde el año 2009.
 
 *Nuestra inspiración...*
-
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbODIyMzQwODk5LC0xNTEzNTgzNzYxXX0=
--->

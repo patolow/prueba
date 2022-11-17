@@ -1,5 +1,6 @@
 # DH-gamers
 
+
 ### Sobre el proyecto:
 
 Esta plataforma se basará en la venta de productos orientados satisfacer las necesidades de los miembros del universo Gamer.
